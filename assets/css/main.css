@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    font-family: Montserrat;
+}
+#splash{
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-image: url(../img/back1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    z-index: 1;
+}
+.logo_white{
+	width: 50%;
+    padding-top:35vh;
+}
+.main_info{
+    background-image: url(../img/june2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 45%;
+    height: 100vh;
+    text-align: center;
+}
+.logo_pink{
+    padding-top:5vh;
+    width: 27%;  
+}
+.button{
+     margin-top:73vh; 
+     text-align: center;
+}
+.btn:hover{
+    background-color: #FF00BF;
+    color: white;
+}
+.btn{
+    background-color:white;
+    color: #FF00BF;
+    border-style: none;
+    padding: 3%;
+    margin: 0 4%;
+}
+.form{
+    width: 45%;
+    display: inline-block; 
+}
+section{
+    text-align: center;
+}
+   
+.btn_next{
+    margin-top: 5vh;
+    width: 50%;
+    text-align: center;
+    background-color: #C1C1C1;
+    color: black;
+}
+.verify{
+    margin-top: 10vh;
+}
