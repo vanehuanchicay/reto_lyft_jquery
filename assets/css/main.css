@@ -31,27 +31,32 @@ body{
     padding-top:5vh;
     width: 27%;  
 }
-.button{
+.button_log{
      margin-top:73vh; 
      text-align: center;
 }
-.btn:hover{
+.btn_log:hover{
     background-color: #FF00BF;
     color: white;
 }
-.btn{
+.btn_log{
     background-color:white;
     color: #FF00BF;
     border-style: none;
     padding: 3%;
     margin: 0 4%;
 }
-.form{
-    width: 45%;
-    display: inline-block; 
-}
+
 section{
     text-align: center;
+}
+.dropdown{
+    display: inline-block;
+    margin-left: 
+}
+.input_form{
+    width: 40%;
+    display: inline-block;
 }
    
 .btn_next{
@@ -64,3 +69,4 @@ section{
 .verify{
     margin-top: 10vh;
 }
+
