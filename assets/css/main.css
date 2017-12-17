@@ -58,13 +58,13 @@ section{
     width: 40%;
     display: inline-block;
 }
-   
 .btn_next{
     margin-top: 5vh;
     width: 50%;
     text-align: center;
-    background-color: #C1C1C1;
-    color: black;
+    background-color: #FF00BF;
+   
+    color: white;
 }
 .verify{
     margin-top: 10vh;
